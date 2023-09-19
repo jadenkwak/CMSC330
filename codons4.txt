@@ -1,0 +1,4 @@
+Glycine: U{6}A{2}
+START: GGUACCGG{2}
+EXCHANGE: UACG
+Methionine: A{7}C{2}G

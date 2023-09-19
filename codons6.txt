@@ -1,0 +1,11 @@
+START: AAA
+STOP: CCC
+DEL: GG{10}G
+SWAP: UUU
+EXCHANGE: ACG
+Lysine5: AUC, UGA
+Tyro3sine: GG{4}A
+Byrosine: ERTY, BFVC, AUHV
+LongSine: AUG
+Hello: BAUG, AUG
+CMSC: notallowedbecauselowercase

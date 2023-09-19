@@ -1,0 +1,8 @@
+Alanine: GCU
+Lysine: AAA
+Methionine: AUG, GUA
+START: UAA
+STOP: UAG
+SWAP: UGA
+EXCHANGE: GGG
+DEL: UAC

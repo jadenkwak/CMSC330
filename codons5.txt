@@ -1,0 +1,10 @@
+START: AAA
+STOP: CCC
+DEL: GG{10}G
+SWAP: UUU
+EXCHANGE: ACG
+Lysine: AUC, UGA
+Tyrosine: GG{4}A
+Byrosine: UAC{1}
+LongSine: AAACCCGGGUUU
+CMSC: ACGU

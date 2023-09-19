@@ -1,0 +1,7 @@
+Alanine: G{2}U{3}UUU
+Lysine: A{2}CU{4}
+Methionine: U{2}AA 
+DEL: UACC
+SWAP: UAC{3}
+START: AAA
+STOP: GUA

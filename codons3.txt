@@ -1,0 +1,4 @@
+Tyrosine: A{4}U{3}
+DEL: AAAUGG{2}
+SWAP: GACU
+Lysine: C{7}G{2}A
